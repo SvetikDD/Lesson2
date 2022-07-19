@@ -27,6 +27,9 @@
 
 ## Ссылки
 
+Чтобы ставить ссылку, необходимо набрать [](). Например [Текст][https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/]
+
+
 ## Таблицы 
 
 ## Цитаты
